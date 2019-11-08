@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/745223ac-9ce6-4135-9bac-0944e9dc09f1/deploy-status)](https://app.netlify.com/sites/criptomonedas-reactjs/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
